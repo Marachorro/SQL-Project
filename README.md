@@ -13,8 +13,11 @@ El total de beneficios de la empresa es de **67416.51€**.
 
 ### Análisis de medidas de tendencia central.
 •	AVG 4.201
+
 •	STTDEV 2.363. Valores alejados de la media, sugiere que están muy alejados de los 4.21€ de promedio. 
+
 •	VAR 5.585, encontramos un valor alto, lo cual indica que los precios que se presentan para el alquiler de películas son muy diversos, se ecuentan dispersos, no son valores cercanos a la media (4.21). 
+
 La varianza del coste de remplazo es de 36.62, una varianza muy alta. 
 El promedio de la duración de las películas es de 115,27 minutos. Encontramos también que la película con mayor duración es de 185 minutos y la de menor duración es de 46, es importante destacar que hay 954 películas con una duración inferior a 180 minutos y únicamente 39 con una duración superior. 
 El promedio de duración de las películas según la clasificación de la tabla film va desde 111.051  hasta 120.44, de la siguiente manera: 
@@ -27,6 +30,7 @@ El promedio de duración de las películas según la clasificación de la tabla 
 •	PG-13- 120.444
 
 •	NC-17 - 113.229
+
 La media de duración del alquiler de las películas es de 4.98 días, aunque es importante destacar que hay sólo el 5% -894-de los alquileres se han realizado por el máximo de tiempo, 9 días.
 Creación de tablas y agrupación de valores para conocer medidas y filtrados.  
 ### Actores
