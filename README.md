@@ -3,7 +3,7 @@ Este proyecto realiza un análisis de los datos extraídos de la base de datos f
 ## Instalación y requisitos: 
 Este proyecto usa Mypostgres y DBeaver como gestor de base de datos. 
 
-## Análisis llevados a cabo- Resultados.
+## Análisis llevados a cabo- Resultados
 Estructura, transformación y limpieza de datos: 
 La creación de la base de datos y del esquema, el esquema generado es el siguiente. Contempla varios datos con varias tablas unidas por primary y foreign  keys para explorar diversas áreas del negocio del alquiler de películas, desde  características de las películas, su clasificación o información específica de la tienda y el staff que trabaja en ellas.  
  
@@ -62,7 +62,7 @@ Music	830
 El día con mayor número de alquiler de películas fue el 31/7/2005 con 679 alquileres en un único día mientras que el que día con menor número de alquileres es el 24 de Mayo del 2005 con únicamente 12 películas alquiladas, números que tienen sentido ya que el mes con mayor número de alquileres son Julio (6709), mientras que los meses con menor número de alquileres son Febrero con 182 alquileres y Mayo con 1156, lo que supone el 1 y el 7% del total respectivamente 
 ### Clientes y actividad
 Los 5 clientes que han tenido mayores gastos son KARL SEAL (221,55€), ELEANOR HUNT (216,54€); CLARA SHAW (195,58€); RHONDA KENNEDY (194.61€); MARION SNYDER (194,61€). En línea con lo mencionado anteriormente, la persona con mayor número de alquileres ha sido ELEANOR HUNT (46), que es la segunda persona con mayor gasto. Esto indica que la persona que mayores gastos tiene, Karl Seal (45) ha alquilado películas con mayor precio que Eleanor. 
-## Conclusiones
+## Conclusiones.
  Gracias al análisis llevado a cabo he en tendido no sólo la estructura general de los datos, sino también sacar métricas clave para el análisis del negocio, como el total de beneficios, los clientes con mayor contribución o el máximo de tiempo de alquiler de una película y cuánta variabilidad hay con la media de tiempo de alquiler. Gracias a este informe podemos también anticipar oportunidades de mejora para aumentar la rentabilidad y, con ello, mejorar la experiencia del cliente. 
 
 _‘Sports’_ y _‘Animation’_ las categorías con mayor número de alquileres, sería conveniente invertir una mayor cantidad de dinero en comprar más películas de estas categorías para aumentar la oferta y, con ello, aumentar los beneficios. De manera contraria, la inversión en películas de categorías _'Tusic' y _'Travel'_ debería de ser inferior, puesto que son las películas menos alquiladas y una inversión grande en este tipo de películas podría suponer pérdidas.  
