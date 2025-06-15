@@ -33,7 +33,7 @@ El promedio de duración de las películas según la clasificación de la tabla 
 
 La media de duración del alquiler de las películas es de 4.98 días, aunque es importante destacar que hay sólo el 5% -894-de los alquileres se han realizado por el máximo de tiempo, 9 días.
 
-##Creación de tablas y agrupación de valores para conocer medidas y filtrados.  
+## Creación de tablas y agrupación de valores para conocer medidas y filtrados.  
 
 ### Actores
 La media de participación de los actores en películas es de 27,31, el actor en el que menos películas ha participado es en 14 películas, mientras que el actor en el que más películas ha participado es en 42. Sólo 2 actores participado en más de 40 películas, en este caso, sólo son 2, el actor con ID 107 y 102. Al ser 14 el menor número de películas en el que un actor o actriz ha actuado, también podemos conocer el número de actores o actrices que no han participado en ninguna película, 0. 
