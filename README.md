@@ -9,7 +9,7 @@ La creación de la base de datos y del esquema, el esquema generado es el siguie
  
 Una gran parte de las consultas que implican nombre y apellido en columnas separadas, ya que para una mayor facilidad y entendimiento, se ha usado la función concat() para devolver en una sola columna el nombre completo de los actores y clientes. También se han usado funciones como extract() para extraer el mes o día de las fechas. 
 Análisis de medidas de tendencia central. 
-El total de beneficios de la empresa es de **67416.51€**. 
+El total de beneficios de la empresa es de **67,416.51€**. 
 
 ### Análisis de medidas de tendencia central.
 •	AVG 4.201
