@@ -62,9 +62,13 @@ El día con mayor número de alquiler de películas fue el 31/7/2005 con 679 alq
 Los 5 clientes que han tenido mayores gastos son KARL SEAL (221,55€), ELEANOR HUNT (216,54€); CLARA SHAW (195,58€); RHONDA KENNEDY (194.61€); MARION SNYDER (194,61€). En línea con lo mencionado anteriormente, la persona con mayor número de alquileres ha sido ELEANOR HUNT (46), que es la segunda persona con mayor gasto. Esto indica que la persona que mayores gastos tiene, Karl Seal (45) ha alquilado películas con mayor precio que Eleanor. 
 ## Conclusiones
  Gracias al análisis llevado a cabo he en tendido no sólo la estructura general de los datos, sino también sacar métricas clave para el análisis del negocio, como el total de beneficios, los clientes con mayor contribución o el máximo de tiempo de alquiler de una película y cuánta variabilidad hay con la media de tiempo de alquiler. Gracias a este informe podemos también anticipar oportunidades de mejora para aumentar la rentabilidad y, con ello, mejorar la experiencia del cliente. 
+
 _‘Sports’_ y _‘Animation’_ las categorías con mayor número de alquileres, sería conveniente invertir una mayor cantidad de dinero en comprar más películas de estas categorías para aumentar la oferta y, con ello, aumentar los beneficios. De manera contraria, la inversión en películas de categorías _'Tusic' y _'Travel'_ debería de ser inferior, puesto que son las películas menos alquiladas y una inversión grande en este tipo de películas podría suponer pérdidas.  
 Como se ha mencionado anteriormente, no existen películas cuyo idioma coincida con el idioma original, por tanto, podría ser un campo interesante al que abrirse, ya que una gran cantidad de personas disfrutan de ver las películas en su idioma original. 
+
 Se propone crear un sistema de recompensas orientado a premiar a los clientes más activos o con mayor gasto acumulado. Este tipo de programa no solo retiene a los mejores clientes, sino que además incentiva a otros a alcanzar esos beneficios.
+
 Sería conveniente analizar también analizar el importe medio por cliente y segmentar por grupos para poder implementar también un programa de promociones que se adecue a cada uno de éstos y poder incrementar las ventas también en los grupos que menores ingresos han generado para la compañía.  
+
 Sería conveniente también explorar más en detalle la estacionalidad de los alquileres, ya que parece haber registros centrados en 5 meses de los 12 existentes, lo que invita a revisar si hubo problemas en la carga de datos o si realmente existe una estacionalidad muy intensa. 
 Este ejercicio resulta útil para la toma de decisiones a nivel estratégico y comercial, y, con ello potenciar el crecimiento del negocio, mejorando a su vez la experiencia del usuario.
